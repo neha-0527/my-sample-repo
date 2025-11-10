@@ -1,1 +1,2 @@
 sample1.txt from develop branch
+Another test line in sample1.txt file
